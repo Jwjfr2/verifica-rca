@@ -1,13 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" role="img" aria-labelledby="title desc">
   <title id="title">verifica-rca</title>
-  <desc id="desc">An illustrated Italian number plate reading GA 123 BC on a blue background. RCA, classe ambientale, neopatentati.</desc>
+  <desc id="desc">An illustrated Italian number plate reading GA 123 BC over a blue road-map background. RCA, classe ambientale, neopatentati.</desc>
   <defs>
     <clipPath id="plate"><rect x="80" y="205" width="1040" height="218" rx="18"/></clipPath>
     <path id="star" d="M0-4 1.2-1.3 4-.9 2 1.1 2.5 4 0 2.6-2.5 4-2 1.1-4-.9-1.2-1.3Z"/>
   </defs>
   <rect width="1200" height="600" fill="#1645ad"/>
+  <g fill="none" stroke="#fff" stroke-width="2" opacity=".08">
+    <path d="M675-30 675 73Q675 100 702 100H1200"/>
+    <path d="M745-30V32Q745 58 772 58H1200"/>
+    <path d="M1090-30V126Q1090 154 1118 154H1230"/>
+    <path d="M545 600V559Q545 542 567 542H754Q779 542 779 567V620"/>
+    <path d="M660 620V582H1200"/>
+    <path d="M1010 600V470Q1010 453 1030 453H1220"/>
+    <path d="M1132 600V510Q1132 490 1152 490H1220"/>
+  </g>
+  <path d="M917-60C917 28 860 38 860 115S1002 207 1002 300 895 400 895 473 970 540 970 660" fill="none" stroke="#092e83" stroke-width="64" opacity=".35"/>
+  <g fill="none" stroke="#fff">
+    <path d="M917-60C917 28 860 38 860 115S1002 207 1002 300 895 400 895 473 970 540 970 660" stroke-width="58" opacity=".08"/>
+    <path d="M917-60C917 28 860 38 860 115S1002 207 1002 300 895 400 895 473 970 540 970 660" stroke-width="52" stroke="#1645ad"/>
+    <path d="M917-60C917 28 860 38 860 115S1002 207 1002 300 895 400 895 473 970 540 970 660" stroke-width="2" stroke-dasharray="12 15" opacity=".27"/>
+  </g>
   <text x="80" y="124" fill="#fff" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="65" font-weight="700" letter-spacing="-2">verifica-rca</text>
-  <rect x="80" y="214" width="1040" height="218" rx="18" fill="#0e3286"/>
   <rect x="80" y="205" width="1040" height="218" rx="18" fill="#fafbf8"/>
   <g clip-path="url(#plate)">
     <rect x="80" y="205" width="82" height="218" fill="#092e83"/>
