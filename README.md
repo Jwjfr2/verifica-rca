@@ -2,6 +2,10 @@
 
 ![verifica-rca: Italian number plate, RCA, classe ambientale and neopatentati](assets/thumbnail.png)
 
+[![GitHub source](https://img.shields.io/badge/GitHub-Source-181717?logo=github&logoColor=white)](https://github.com/Jwjfr2/verifica-rca)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](rca.py)
+[![macOS with Apple Vision](https://img.shields.io/badge/macOS-Apple_Vision-555555?logo=apple&logoColor=white)](ocr_vision.swift)
+
 Python client for checking Italian vehicle insurance, emissions class and
 neopatentati eligibility on the
 [Portale dell'Automobilista](https://www.ilportaledellautomobilista.it).
