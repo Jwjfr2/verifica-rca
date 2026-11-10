@@ -1,5 +1,7 @@
 # verifica-rca
 
+![verifica-rca: Italian number plate, RCA, classe ambientale and neopatentati](assets/thumbnail.png)
+
 Python client for checking Italian vehicle insurance, emissions class and
 neopatentati eligibility on the
 [Portale dell'Automobilista](https://www.ilportaledellautomobilista.it).
